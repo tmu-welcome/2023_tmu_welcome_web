@@ -1,0 +1,562 @@
+{
+	"mapwidth": "660",
+	"mapheight": "490",
+	"defaultstyle": "light",
+	"styles": [
+		{
+			"class": "light",
+			"hover": { "fill": "#f4f4f4" },
+			"active": { "fill": "#fff" }
+		},
+		{
+			"class": "dark",
+			"hover": { "fill": "#666" },
+			"active": { "fill": "#555" }
+		}
+	],
+	"categories": [
+		{
+			"id": "運動系",
+			"title": "運動系の団体",
+			"toggle": "true",
+			"color": "#6d9eeb"
+		},
+		{
+			"id": "音楽系",
+			"title": "音楽系の団体",
+			"toggle": "true",
+			"color": "#ff4ace"
+		},
+		{
+			"id": "ボランティア",
+			"title": "ボランティア系の団体",
+			"toggle": "true",
+			"color": "#8ffc56"
+		},
+		{
+			"id": "文化系",
+			"title": "文化系の団体",
+			"toggle": "true",
+			"color": "#ff6969"
+		},
+		{
+			"id": "個性的な活動",
+			"title": "個性的な活動をする団体",
+			"toggle": "true",
+			"color": "#fff64d"
+		}
+	],
+	"levels": [
+		{
+			"id": "floor-1-1-first",
+			"title": "1号館1階前半",
+			"map": "maps/1-1map-first.svg",
+			"minimap": "maps/1-1map-first.jpg",
+			"show": "true",
+			"locations": [
+				{
+					"id": "room101f",
+					"title": "101",
+					"about": "1号館1階101",
+					"description": "das Lied",
+					"category": "音楽系",
+					"x": "0.1270",
+					"y": "0.4188"
+				},
+				{
+					"id": "room102f",
+					"title": "102",
+					"about": "1号館1階102",
+					"description": "ジャグリングサークルTeam'Lamp'",
+					"category": "個性的な活動",
+					"x": "0.1270",
+					"y": "0.2217"
+				},
+				{
+					"id":"room103f",
+					"title":"103",
+					"about":"1号館1階103",
+					"description":"サークル紹介本部",
+					"category":"サークル紹介本部",
+					"x":"0.2195",
+					"y":"0.1781"
+				},
+				{
+					"id":"room104f",
+					"title":"104",
+					"about":"1号館1階104",
+					"description":"10:30~ 12:30 サッカー部<br> 13:00~ Jazz研究会 <br> 14:30~  スマん研<br> 15:30~ aiddy",
+					"category":"運動系, 音楽系, 個性的な活動, ボランティア",
+					"x":"0.3151",
+					"y":"0.1781"
+				},
+				{
+					"id":"room105f",
+					"title":"105",
+					"about":"1号館1階105",
+					"description":"10:30~　学生教育研究会<br>12:00~ B類テニス部<br> 14:00~ 生協学生委員会<br>14:30~ 陸上競技部",
+					"category":"運動系, 個性的な活動, ボランティア",
+					"x":"0.4136",
+					"y":"0.2217"
+				},
+				{
+					"id":"room109f",
+					"title":"109",
+					"about":"1号館1階109",
+					"description":"10:30~ ゴルフ部<br>12:30~14:00 休憩 <br>14:00~ 児童文化研究会",
+					"category":"デモンストレーションルーム",
+					"x":"0.3151",
+					"y":"0.4226"
+				},
+				{
+					"id":"room110f",
+					"title":"110",
+					"about":"1号館1階110",
+					"description":"児童文化研究会<br>生協学生委員会つむぎ",
+					"category":"ボランティア, 個性的な活動",
+					"x":"0.7147",
+					"y":"0.1724"
+				},
+				{
+					"id":"room120f",
+					"title":"120",
+					"about":"1号館1階120",
+					"description":"学術探検会<br>弓道部<br>CORE<br>女子バスケットボール部",
+					"category":"個性的な活動, 運動系, モノづくり",
+					"x":"0.8497",
+					"y":"0.5950"
+				}
+			]
+		},
+		{
+			"id": "floor-1-2-first",
+			"title": "1号館2階前半",
+			"map": "maps/1-2map-first.svg",
+			"minimap": "maps/1-2map-first.jpg",
+			"locations": [
+				{
+					"id":"room210f",
+					"title":"210",
+					"about":"1号館2階210",
+					"description":"硬式庭球部<br>バドミントン部",
+					"category":"運動系",
+					"x":"0.7239",
+					"y":"0.1750"
+				},
+				{
+					"id":"room220f",
+					"title":"220",
+					"about":"1号館2階220",
+					"description":"劇団時計<br>Dolce",
+					"category":"文化系, 音楽系",
+					"x":"0.8547",
+					"y":"0.3782"
+				},
+				{
+					"id":"room230f",
+					"title":"230",
+					"about":"1号館2階230",
+					"description":"skyhand<br>星泳会<br>B類サッカー部<br>B類バスケットボール部",
+					"category":"運動系",
+					"x":"0.8547",
+					"y":"0.5619"
+				},
+				{
+					"id":"room240f",
+					"title":"240",
+					"about":"1号館2階240",
+					"description":"ESS<br>J-Boy",
+					"category":"文化系, 個性的な活動",
+					"x":"0.8547",
+					"y":"0.7330"
+				}
+			]
+		},
+		{
+			"id":"floor-7-1-first",
+			"title":"7号館1階前半",
+			"map":"maps/7-1map-first.svg",
+			"minimap":"maps/7-1map-first.jpg",
+			"locations":[
+				{
+					"id":"studio101f",
+					"title":"101",
+					"about":"7号館1階101",
+					"description":"競技ダンス部",
+					"category":"運動系",
+					"x":"0.8692",
+					"y":"0.4789"
+				},
+				{
+					"id":"music103f",
+					"title":"103",
+					"about":"7号館1階103",
+					"description":"Revolver",
+					"category":"文化系",
+					"x":"0.8298",
+					"y":"0.6931"
+				},
+				{
+					"id":"music104f",
+					"title":"104",
+					"about":"7号館1階104",
+					"description":"アイリッシュ音楽研究会",
+					"category":"音楽系",
+					"x":"0.7200",
+					"y":"0.7140"
+				},
+				{
+					"id":"music106f",
+					"title":"106",
+					"about":"7号館1階106",
+					"description":"unplugged",
+					"category":"音楽系",
+					"x":"0.6975",
+					"y":"0.6306"
+				}
+			]
+		},
+		{
+			"id":"floor-7-2-first",
+			"title":"7号館2階前半",
+			"map":"maps/7-2map-first.svg",
+			"minimap":"maps/7-2map-first.jpg",
+			"locations":[
+				{
+					"id":"wa211f",
+					"title":"211",
+					"about":"7号館2階211",
+					"description":"茶道研究会",
+					"category":"文化系",
+					"x":"0.8152",
+					"y":"0.6080"
+				},
+				{
+					"id":"wa212f",
+					"title":"212",
+					"about":"7号館2階212",
+					"description":"茶道研究会",
+					"category":"文化系",
+					"x":"0.7621",
+					"y":"0.6080"
+				},
+				{
+					"id":"wa213f",
+					"title":"213",
+					"about":"7号館2階213",
+					"description":"将棋部",
+					"category":"文化系",
+					"x":"0.6975",
+					"y":"0.6080"
+				},
+				{
+					"id":"wa215f",
+					"title":"215",
+					"about":"7号館2階215",
+					"description":"将棋部",
+					"category":"文化系",
+					"x":"0.6192",
+					"y":"0.6080"
+				},
+				{
+					"id":"room216f",
+					"title":"216",
+					"about":"7号館2階216",
+					"description":"写真部",
+					"category":"文化系",
+					"x":"0.5288",
+					"y":"0.6080"
+				},
+				{
+					"id":"room218f",
+					"title":"218",
+					"about":"7号館2階218",
+					"description":"人力飛行機研究会MaPPL",
+					"category":"モノづくり",
+					"x":"0.4253",
+					"y":"0.6080"
+				},
+				{
+					"id":"room221f",
+					"title":"221",
+					"about":"7号館2階221",
+					"description":"Closeup Music Circle",
+					"category":"文化系",
+					"x":"0.8152",
+					"y":"0.4025"
+				},
+				{
+					"id":"room222f",
+					"title":"222",
+					"about":"7号館2階222",
+					"description":"美術部",
+					"category":"文化系",
+					"x":"0.7621",
+					"y":"0.4025"
+				},
+				{
+					"id":"room223f",
+					"title":"223",
+					"about":"7号館2階223",
+					"description":"ボードゲーム研究会",
+					"category":"文化系",
+					"x":"0.7121",
+					"y":"0.4025"
+				},
+				{
+					"id":"room224f",
+					"title":"224",
+					"about":"7号館2階224",
+					"description":"キャプス5",
+					"category":"文化系",
+					"x":"0.6602",
+					"y":"0.4025"
+				},
+				{
+					"id":"room226f",
+					"title":"226",
+					"about":"7号館2階226",
+					"description":"いきもの！サークル東京",
+					"category":"個性的な活動",
+					"x":"0.5542",
+					"y":"0.4025"
+				},
+				{
+					"id":"room227f",
+					"title":"227",
+					"about":"7号館2階227",
+					"description":"推理小説研究会",
+					"category":"文化系",
+					"x":"0.5022",
+					"y":"0.4025"
+				},
+				{
+					"id":"room228f",
+					"title":"228",
+					"about":"7号館2階228",
+					"description":"ワンダーフォーゲル部",
+					"category":"運動系",
+					"x":"0.4476",
+					"y":"0.4025"
+				},
+				{
+					"id":"room229f",
+					"title":"229",
+					"about":"7号館2階229",
+					"description":"鉄道研究会",
+					"category":"文化系",
+					"x":"0.3991",
+					"y":"0.4025"
+				},
+				{
+					"id":"room7-230f",
+					"title":"230",
+					"about":"7号館2階230",
+					"description":"環境サークルnature",
+					"category":"文化系",
+					"x":"0.3244",
+					"y":"0.4025"
+				}
+			]
+		},
+		{
+			"id":"infome-first",
+			"title":"インフォメ前半",
+			"map":"maps/infome-first.svg",
+			"minimap":"maps/infome-first.jpg",
+			"locations":[
+				{
+					"id":"no1f",
+					"title":"テントNo.1",
+					"about":"インフォメーションギャラリーテントNo.1",
+					"description":"応援団",
+					"category":"運動系",
+					"x":"0.8973",
+					"y":"0.3292"
+				},
+				{
+					"id":"no2f",
+					"title":"テントNo.2",
+					"about":"インフォメーションギャラリーテントNo.2",
+					"description":"山岳部",
+					"category":"運動系",
+					"x":"0.8973",
+					"y":"0.5206"
+				},
+				{
+					"id":"no3f",
+					"title":"テントNo.3",
+					"about":"インフォメーションギャラリーテントNo.3",
+					"description":"ソフトテニス部",
+					"category":"運動系",
+					"x":"0.8973",
+					"y":"0.7102"
+				},
+				{
+					"id":"no4f",
+					"title":"テントNo.4",
+					"about":"インフォメーションギャラリーテントNo.4",
+					"description":"フライングディスク部",
+					"category":"運動系",
+					"x":"0.7144",
+					"y":"0.6382"
+				},
+				{
+					"id":"no5f",
+					"title":"テントNo.5",
+					"about":"インフォメーションギャラリーテントNo.5",
+					"description":"水泳部",
+					"category":"運動系",
+					"x":"0.5765",
+					"y":"0.6382"
+				},
+				{
+					"id":"no6f",
+					"title":"テントNo.6",
+					"about":"インフォメーションギャラリーテントNo.6",
+					"description":"ラグビー部",
+					"category":"運動系",
+					"x":"0.4217",
+					"y":"0.6382"
+				},
+				{
+					"id":"no7f",
+					"title":"テントNo.7",
+					"about":"インフォメーションギャラリーテントNo.7",
+					"description":"アイスホッケー部",
+					"category":"運動系",
+					"x":"0.2781",
+					"y":"0.6382"
+				},
+				{
+					"id":"no8f",
+					"title":"テントNo.8",
+					"about":"インフォメーションギャラリーテントNo.8",
+					"description":"体操部",
+					"category":"運動系",
+					"x":"0.1289",
+					"y":"0.6382"
+				},
+				{
+					"id":"infome-building1f",
+					"title":"1号館",
+					"x":"0.3482",
+					"y":"0.1594",
+					"zoom":"0",
+					"hide":"true"
+				},
+				{
+					"id":"infome-building7f",
+					"title":"7号館",
+					"x":"0.3556",
+					"y":"0.8538",
+					"zoom":"0",
+					"hide":"true"
+				},
+				{
+					"id":"infome-hallf",
+					"title":"講堂",
+					"x":"0.9511",
+					"y":"0.0903",
+					"zoom":"0",
+					"hide":"true"
+				}
+			]
+		},
+		{
+			"id":"gakuhall1f-first",
+			"title":"学生ホール1階",
+			"map":"maps/gakuhall1F.svg",
+			"minimap":"maps/gakuhall1F.jpg",
+			"locations":[
+				{
+					"id":"park1f",
+					"title":"生協前広場",
+					"about":"学生ホール生協前広場",
+					"description":"10:30~12:00 応援団<br>12:00~14:15 吹奏楽団<br>14:15~14:45 WILD BOARS<br>14:45~16:30 軽音楽部・フォークソング研究会",
+					"category":"パフォーマンス",
+					"x":"0.3556",
+					"y":"0.3989"
+				},
+				{
+					"id":"shop",
+					"title":"生協購買",
+					"about":"生協購買",
+					"description":"11時~14時まで営業",
+					"category":"生協",
+					"x":"0.8285",
+					"y":"0.4913"
+				},
+				{
+					"id":"cafeteria",
+					"title":"生協食堂",
+					"about":"生協食堂",
+					"description":"12時~14時まで食事場所として開放",
+					"category":"生協",
+					"x":"0.1002",
+					"y":"0.4576"
+				}
+			]
+		},
+		{
+			"id":"gakuhall-first",
+			"title":"学生ホール2階前半",
+			"map":"maps/gakuhall-first.svg",
+			"minimap":"maps/gakuhall-first.jpg",
+			"locations":[
+				{
+					"id":"danwaf",
+					"title":"談話室",
+					"about":"学生ホール談話室",
+					"description":"フォークソング研究会",
+					"category":"音楽系",
+					"x":"0.6328",
+					"y":"0.4581"
+				},
+				{
+					"id":"shisakuf",
+					"title":"資料作成室",
+					"about":"学生ホール資料作成室",
+					"description":"軽音楽部",
+					"category":"音楽系",
+					"x":"0.2542",
+					"y":"0.9225"
+				},
+				{
+					"id":"seikyo_spacef",
+					"title":"生協前広場",
+					"about":"学生ホール生協前広場",
+					"description":"10:30~12:00 応援団<br>12:00~14:15 吹奏楽団<br>14:15~14:45 WILD BOARS<br>14:45~16:30 軽音楽部・フォークソング研究会",
+					"category":"パフォーマンス",
+					"x":"0.3556",
+					"y":"0.3989"
+				}
+			]
+		},
+		{
+			"id":"hall",
+			"title":"講堂",
+			"map":"maps/hall2022.svg",
+			"minimap":"maps/hall2022.jpg",
+			"locations":[
+				{
+					"id":"hall",
+					"title":"講堂",
+					"about":"講堂小ホール",
+					"description":"10:30~11:10 グリークラブ<br>11:10~13:00 管弦楽団<br>13:00~15:30 FINAL☆FLASH<br>15:30~16:30 古典ギター部<br><br><small>※講堂大ホールはワクチン接種会場のため、ワクチン接種関係者以外立ち入ることはできません。</small>",
+					"category":"パフォーマンス",
+					"x":"0.8304",
+					"y":"0.2546"
+				},
+				{
+					"id":"hall-building1",
+					"title":"1号館",
+					"x":"0.1479",
+					"y":"0.3265",
+					"zoom":"0",
+					"hide":"true"
+				}
+			]
+		}
+	]
+}

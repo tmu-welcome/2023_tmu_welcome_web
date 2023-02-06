@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 661.11 490.91">
+  <g id="_景" data-name="背景">
+    <polyline id="base" points=".61 .51 660.61 .51 660.61 490.51 .61 490.51" fill="#dcdddd"/>
+  </g>
+  <g id="MLOC-buildings">
+    <rect id="hall-building1" x=".5" y=".5" width="189.98" height="307.79" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="soranomado" x="475.29" y="359.91" width="185.44" height="130.62" fill="#929292" stroke="#283331" stroke-miterlimit="10" stroke-width=".77"/>
+    <polyline id="hall" points="445.99 32.03 660.5 32.03 660.5 289.03 445.99 289.03 445.99 32.03" fill="#aedef8" stroke="#283331" stroke-miterlimit="10" stroke-width="1.08"/>
+  </g>
+  <g id="MNOINT-word">
+    <text transform="translate(71.54 167.95)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="20"><tspan x="0" y="0" letter-spacing=".25em">1</tspan><tspan x="18.8" y="0">号館</tspan></text>
+    <text transform="translate(526.86 381.71)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="20"><tspan x="0" y="0">空の目門</tspan></text>
+    <text transform="translate(386.97 167.95)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="24"><tspan x="0" y="0">講堂</tspan></text>
+    <text transform="translate(455.66 60.98)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="20"><tspan x="0" y="0">小ホール</tspan></text>
+    <text transform="translate(456.62 258.96)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="14"><tspan x="0" y="0">大ホール</tspan></text>
+    <text transform="translate(468.59 280.67)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="12"><tspan x="0" y="0">ワクチン接種に伴い、利用不可</tspan></text>
+    <text transform="translate(232.29 21.06)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="20"><tspan x="0" y="0">南門（南大沢駅方面</tspan><tspan x="180" y="0" letter-spacing="-.5em">）</tspan></text>
+    <g>
+      <text transform="translate(464.29 92.59)" fill="#231815" font-size="13"><tspan font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans"><tspan x="0" y="0">グリークラブ　</tspan></tspan><tspan font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans"><tspan x="0" y="22.75">管弦楽団</tspan></tspan><tspan x="0" y="45.5" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans">FINAL</tspan><tspan x="40.46" y="45.5" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N">☆</tspan><tspan x="53.46" y="45.5" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans">FLASH</tspan><tspan font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans"><tspan x="0" y="68.25">古典ギター部</tspan></tspan></text>
+      <text transform="translate(565.06 92.29)" fill="#231815" font-family="HiraginoSans-W5-83pv-RKSJ-H, Hiragino Sans" font-size="13"><tspan x="0" y="0">10:30 - 11:10</tspan><tspan x="0" y="22.75">11:10 - 13:00</tspan><tspan x="0" y="45.5">13:00 - 15:30</tspan><tspan x="0" y="68.25">15:30 - 16:30</tspan></text>
+    </g>
+    <text transform="translate(18.34 383.19) scale(.99 1)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N"><tspan font-size="18"><tspan x="0" y="0">インフォメーション</tspan></tspan><tspan font-size="18"><tspan x="0" y="23">ギャラリー</tspan></tspan><tspan font-size="16.61"><tspan x="-8.31" y="44.78">（インフォメ</tspan><tspan x="91.37" y="44.78" letter-spacing="-.5em">）</tspan></tspan></text>
+  </g>
+</svg>
