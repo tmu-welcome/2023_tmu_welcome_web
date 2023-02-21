@@ -606,8 +606,8 @@
 		{
 			"id":"hall",
 			"title":"講堂",
-			"map":"../maps/hall2022.svg",
-			"minimap":"../maps/hall2022.jpg",
+			"map":"../maps/hall2023.svg",
+			"minimap":"../maps/hall2023.jpg",
 			"locations":[
 				{
 
@@ -628,7 +628,7 @@
 					"category": "fashion,dep",
 					"style": "dark",
 					"x": "0.7856",
-					"y": "0.2022",
+					"y": "0.2023",
 					"zoom": "2"
 				},
 				{

@@ -536,8 +536,8 @@
 		{
 			"id":"hall",
 			"title":"講堂",
-			"map":"maps/hall2022.svg",
-			"minimap":"maps/hall2022.jpg",
+			"map":"maps/hall2023.svg",
+			"minimap":"maps/hall2023.jpg",
 			"locations":[
 				{
 					"id":"hall",
