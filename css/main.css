@@ -2743,8 +2743,8 @@ a.ytb_btn {
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
 }
 
 .header__search-form {
@@ -2922,10 +2922,6 @@ body.search-is-visible {
     .s-header *{
         transform: translateZ(1px);
     }
-
-  .s-header * {
-    transform: translateZ(1px);
-  }
 
   .header__top {
     z-index: 200;
