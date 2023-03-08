@@ -2919,7 +2919,8 @@ body.search-is-visible {
     top: 0;
     bottom: auto;
   }
-  .s-header *{
+    
+  .s-header * {
     transform: translateZ(1px);
   }
 
