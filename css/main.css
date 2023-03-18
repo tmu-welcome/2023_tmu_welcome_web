@@ -2489,7 +2489,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 .link_btn,
 a.link_btn {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-weight: 700;
   line-height: 1.2;
   position: relative;
@@ -2516,6 +2516,7 @@ a.link_btn-flat {
   color: #fff;
   border-radius: 0;
   background: #000;
+  border-radius: 20px
 }
 
 a.link_btn-flat span {
@@ -2628,6 +2629,7 @@ a.ytb_btn {
   font-size: 15px;
   /*文字サイズ*/
   display: inline-block;
+  vertical-align: middle;
 }
 
 .insta img {
