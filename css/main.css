@@ -2592,9 +2592,10 @@ a.ytb_btn {
 .line_btn {
   text-align: center;
   /*中央揃え*/
-  font-size: 13px;
+  font-size: 1.5rem;
   /*文字サイズ*/
   display: inline-block;
+  vertical-align: middle;
 }
 
 .line_btn:hover {
