@@ -2489,7 +2489,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 .link_btn,
 a.link_btn {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-weight: 700;
   line-height: 1.2;
   position: relative;
@@ -2516,6 +2516,7 @@ a.link_btn-flat {
   color: #fff;
   border-radius: 0;
   background: #000;
+  border-radius: 20px
 }
 
 a.link_btn-flat span {
@@ -2551,7 +2552,7 @@ a.link_btn-flat:hover:before {
  * ## Added Youtube button ver2 完全自作
  * ------------------------------------------------------------------- */
 a.ytb_btn {
-  font-size: 1.6rem;
+  /* font-size: 1.6rem;
   font-weight: 450;
   line-height: 1.2;
   position: relative;
@@ -2565,22 +2566,26 @@ a.ytb_btn {
   user-select: none;
   text-align: center;
   letter-spacing: -0.05em;
-  border-radius: 0.4rem 0.4rem;
   color: #fff !important;
-  border: 0.05rem solid #FF0000;
-  background-color: #FF0000;
+  border: 0.05rem solid #FF0000;*/
+  /* background-color: #FF0000;
+  border-radius: 0.4rem 0.4rem; */
 }
 
 .ytb_btn:hover {
-  border: 0.05rem solid #212121;
+  /* border: 0.05rem solid #212121; */
 }
 
 .ytb_btn img {
   position: relative;
   /*相対配置*/
-  width: 3.5rem;
+  width: auto;
   height: 2.0rem;
   object-fit: cover;
+
+}
+.ytb_info{
+  display: none;
 }
 
 
@@ -2591,9 +2596,10 @@ a.ytb_btn {
 .line_btn {
   text-align: center;
   /*中央揃え*/
-  font-size: 13px;
+  font-size: 1.5rem;
   /*文字サイズ*/
   display: inline-block;
+  vertical-align: middle;
 }
 
 .line_btn:hover {
@@ -2606,6 +2612,11 @@ a.ytb_btn {
   top: 3px;
   width: 30px;
 }
+.line_info{
+  .vertical-align: middle;
+  margin-left: 10px;
+}
+
 
 
 /* -------------------------------------------------------------------
@@ -2628,6 +2639,7 @@ a.ytb_btn {
   font-size: 15px;
   /*文字サイズ*/
   display: inline-block;
+  vertical-align: middle;
 }
 
 .insta img {
@@ -2680,6 +2692,10 @@ a.ytb_btn {
   /*グラデーション②*/
 }
 
+.insta_info{
+  .vertical-align: middle;
+  margin-left: 10px;
+}
 
 /* -------------------------------------------------------------------
  * ## header search trigger
