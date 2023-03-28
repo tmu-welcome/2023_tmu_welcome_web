@@ -349,17 +349,57 @@
 
                         <div class="column" id="shinkansai">
                             <h3>新歓祭</h3>
-                            <p>4/2 (日)<br>13:00~14:30　<s>予約は<a target="_blank">こちら</a></s><br>
-                                15:30~17:00　<s>予約は<a target="_blank">こちら</a></s><br>@生協食堂
+                            <p>4/2 (日)<br>13:00~14:30　<span id="welcomeFes_so1" style="text-decoration: line-through;">予約は<a id="welcomeFes_link1" target="_blank">こちら</a></span><br>
+                                15:30~17:00　<span id="welcomeFes_so2" style="text-decoration: line-through;">予約は<a id="welcomeFes_link2" target="_blank">こちら</a></span><br>@生協食堂
                             </p>
                             <p>
-                                <b><font color="#ef454a">定員に達したため予約受付を終了いたしました。</font></b>
+                                <b><font color="#ef454a" id="welcomeFes_msg">定員に達したため予約受付を終了いたしました。</font></b>
                             </p>
                             <p>
                                 新歓祭は、学部の壁を越えていろんな人と話すことができるイベントです！レクを通して、友達もたくさんつくれちゃいます！
                                 いろんな学部の先輩も参加するので、大学生活のあれこれを聞くことができるまたとない機会です！ぜひご参加ください！
                             </p>
                             <p><b>新歓祭は、参加できる定員が限られているため、どちらか1回のみのご予約をお願いいたします。</b></p>
+                            
+                            <script>
+                                //script for 2nd apply release
+                                document.addEventListener('DOMContentLoaded',releaseLink(),false);
+                                function releaseLink(){
+                                    let link1 = document.getElementById("welcomeFes_link1");
+                                    let link2 = document.getElementById("welcomeFes_link2");
+                                    let strikeout1 = document.getElementById("welcomeFes_so1");
+                                    let strikeout2 = document.getElementById("welcomeFes_so2");
+                                    let msg = document.getElementById("welcomeFes_msg");
+                                    
+                                    const limitDate = new Date("2023-03-29T12:00:00+09:00");//2023-03-29 12:00:00 JST
+
+                                    var request = new XMLHttpRequest();
+                                    var date = new Date;
+                                    request.open('HEAD', window.location.href, true);
+                                    request.send();
+                                    request.onreadystatechange = function() {
+                                        if (this.readyState === 4) {
+                                            date = new Date(request.getResponseHeader('Date'));
+                                            console.log(date);
+                                            changeLinks(date);
+                                        } else { 
+                                            console.log("get server time error. use local time.");
+                                            changeLinks(date);
+                                        }
+
+                                    }
+                                    
+                                    function changeLinks(checkDate){
+                                        if(limitDate<checkDate){//release
+                                            link1.setAttribute("href","https://docs.google.com/forms/d/e/1FAIpQLScUKS9we8w73gUQRgRhZzbHFY_Sqk15bQzvSGVASymYhAGfyQ/viewform");
+                                            link2.setAttribute("href","https://docs.google.com/forms/d/e/1FAIpQLSduvzVJzqcEMEPDhRn-z5FHgEJU0RjxE66F7Xch6lfg-Z8UfA/viewform");
+                                            strikeout1.setAttribute("style","text-decoration: none;");
+                                            strikeout2.setAttribute("style","text-decoration: none;");
+                                            msg.innerHTML="3/29の正午より追加募集を開始しております。"
+                                        }
+                                    }
+                                }
+                            </script>
                         </div>
 
                         <div class="column">
