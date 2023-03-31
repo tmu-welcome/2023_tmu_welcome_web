@@ -2508,6 +2508,7 @@ a.link_btn {
   letter-spacing: 0.1em;
   color: #212529;
   border-radius: 0.5rem;
+  margin: 5px;
 }
 
 a.link_btn-flat {
@@ -2600,6 +2601,9 @@ a.ytb_btn {
   /*文字サイズ*/
   display: inline-block;
   vertical-align: middle;
+  display:flex;
+  align-items:center;
+  margin: 5px;
 }
 
 .line_btn:hover {
@@ -2612,11 +2616,13 @@ a.ytb_btn {
   top: 3px;
   width: 30px;
 }
+
+/*
 .line_info{
   .vertical-align: middle;
   margin-left: 10px;
 }
-
+*/
 
 
 /* -------------------------------------------------------------------
@@ -2640,6 +2646,9 @@ a.ytb_btn {
   /*文字サイズ*/
   display: inline-block;
   vertical-align: middle;
+  display:flex;
+  align-items:center;
+  margin: 5px;
 }
 
 .insta img {
@@ -2692,10 +2701,13 @@ a.ytb_btn {
   /*グラデーション②*/
 }
 
-.insta_info{
-  .vertical-align: middle;
-  margin-left: 10px;
+/*.insta_info{
+  vertical-align: middle;
+  margin: 5px 5px;
+  display:flex;
+  align-items:center
 }
+*/
 
 /* -------------------------------------------------------------------
  * ## header search trigger
