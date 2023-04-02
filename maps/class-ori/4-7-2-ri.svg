@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 490">
-  <g id="_景" data-name="背景">
+  <g id="_背景" data-name="背景">
     <polyline id="base" points="0 0 660 0 660 490 0 490" fill="#dcdddd"/>
   </g>
-  <g id="_下" data-name="廊下">
-    <g id="_段" data-name="階段">
+  <g id="_廊下" data-name="廊下">
+    <g id="_階段" data-name="階段">
       <polyline points="341.79 448.33 333.43 423.54 343.86 420.02 352.1 444.47" fill="none" stroke="#283331" stroke-miterlimit="10"/>
       <line x1="338.24" y1="437.81" x2="348.67" y2="434.29" fill="none" stroke="#283331" stroke-miterlimit="10" stroke-width=".25"/>
       <line x1="338.87" y1="439.68" x2="349.3" y2="436.16" fill="none" stroke="#283331" stroke-miterlimit="10" stroke-width=".25"/>
@@ -23,42 +23,35 @@
     <polyline points="388.08 143.35 388.08 127.8 550.65 127.8 566.12 127.8 566.12 112.3 550.62 112.3 550.65 38 643.03 38 643.03 411.82 584.29 411.82 584.29 451.11 392.19 451.11 392.19 423.42 324.98 423.42 324.98 451.11 237.33 451.11 237.33 395.5 324.98 395.5 324.98 412.79 392.38 412.79 392.38 395.54 621.09 395.54 621.09 137.22 507.14 137.22 507.14 143.35 388.08 143.35" fill="#b5b5b6" stroke="#283331" stroke-miterlimit="10"/>
     <polyline points="57.29 164.02 57.29 145.86 115.74 145.86 115.74 127.8 243.08 127.8 243.08 143.35 507.14 143.35 507.14 395.5 237.33 395.5 237.33 425.61 115.74 425.61 115.74 164.02 57.29 164.02" fill="#b5b5b6" stroke="#283331" stroke-miterlimit="10"/>
     <polyline points="490.04 329.56 490.04 164.02 357.63 164.02 243.08 164.02 243.08 177.67 179.41 177.67 149.09 177.67 149.09 372.9 237.33 372.9 237.33 329.56 476.51 329.56" fill="#dcdddd" stroke="#283331" stroke-miterlimit="10"/>
-    <g id="_印" data-name="矢印">
-      <path d="M424.79,152.43l4-3.84-2.94-.06,.29-14.71-1.96-.04-.29,14.71-2.94-.06,3.84,4Z" fill="#040000"/>
-      <path d="M425.2,132.05l-4,3.84,2.94,.06-.29,14.71,1.96,.04,.29-14.71,2.94,.06-3.84-4Z" fill="#040000"/>
+    <g id="_矢印" data-name="矢印">
+      <path d="m424.79,152.43l4-3.84-2.94-.06.29-14.71-1.96-.04-.29,14.71-2.94-.06,3.84,4Z" fill="#040000"/>
+      <path d="m425.2,132.05l-4,3.84,2.94.06-.29,14.71,1.96.04.29-14.71,2.94.06-3.84-4Z" fill="#040000"/>
     </g>
-    <g id="_印-2" data-name="矢印">
-      <path d="M314.8,405.69l4-3.84-2.94-.06,.29-14.71-1.96-.04-.29,14.71-2.94-.06,3.84,4Z" fill="#040000"/>
-      <path d="M315.2,385.31l-4,3.84,2.94,.06-.29,14.71,1.96,.04,.29-14.71,2.94,.06-3.84-4Z" fill="#040000"/>
+    <g id="_矢印-2" data-name="矢印">
+      <path d="m314.8,405.69l4-3.84-2.94-.06.29-14.71-1.96-.04-.29,14.71-2.94-.06,3.84,4Z" fill="#040000"/>
+      <path d="m315.2,385.31l-4,3.84,2.94.06-.29,14.71,1.96.04.29-14.71,2.94.06-3.84-4Z" fill="#040000"/>
     </g>
-    <g id="_印-3" data-name="矢印">
-      <path d="M227.18,414.79l3.84,4,.06-2.94,14.71,.29,.04-1.96-14.71-.29,.06-2.94-4,3.84Z" fill="#040000"/>
-      <path d="M247.56,415.19l-3.84-4-.06,2.94-14.71-.29-.04,1.96,14.71,.29-.06,2.94,4-3.84Z" fill="#040000"/>
+    <g id="_矢印-3" data-name="矢印">
+      <path d="m227.18,414.79l3.84,4,.06-2.94,14.71.29.04-1.96-14.71-.29.06-2.94-4,3.84Z" fill="#040000"/>
+      <path d="m247.56,415.19l-3.84-4-.06,2.94-14.71-.29-.04,1.96,14.71.29-.06,2.94,4-3.84Z" fill="#040000"/>
     </g>
     <polyline points="585.6 38 585.6 127.8 643.03 127.8 643.03 38 585.6 38" fill="#dcdddd" stroke="#283331" stroke-miterlimit="10"/>
     <line x1="643.03" y1="38" x2="585.6" y2="127.8" fill="none" stroke="#283331" stroke-miterlimit="10" stroke-width=".25"/>
     <line x1="585.6" y1="38.49" x2="643.03" y2="127.8" fill="none" stroke="#283331" stroke-miterlimit="10" stroke-width=".25"/>
   </g>
-  <g id="_性用トイレ" data-name="男性用トイレ">
+  <g id="_男性用トイレ" data-name="男性用トイレ">
     <polyline points="388.08 127.8 406.45 127.8 406.45 38 388.08 38 388.08 127.8" fill="#54c3f1" stroke="#283331" stroke-miterlimit="10"/>
   </g>
-  <g id="_性用トイレ-2" data-name="女性用トイレ">
+  <g id="_女性用トイレ" data-name="女性用トイレ">
     <polyline points="370.42 143.35 388.08 143.35 388.08 38 370.42 38 370.42 143.35" fill="#f19899" stroke="#283331" stroke-miterlimit="10"/>
     <polygon points="621.09 411.9 584.29 411.82 584.29 451.11 621.09 451.11 621.09 411.9" fill="#f19899" stroke="#283331" stroke-miterlimit="10"/>
   </g>
-  <g id="_用不可能教室等" data-name="使用不可能教室等">
-    <rect x="179.41" y="177.67" width="63.67" height="68.45" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-    <rect x="306.75" y="66.82" width="63.67" height="76.53" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-    <rect x="243.08" y="164.02" width="81.9" height="74.19" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+  <g id="_使用不可能教室等" data-name="使用不可能教室等">
     <rect x="324.98" y="164.02" width="32.65" height="74.19" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
     <polyline points="115.74 293.77 16.97 293.77 16.97 452 115.74 452 115.74 293.77" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
     <rect x="507.14" y="137.22" width="113.95" height="10.11" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="room210" x="406.49" y="38" width="144.16" height="89.8" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="room220" x="507.14" y="147.33" width="113.95" height="74.79" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="room230" x="507.14" y="221.63" width="113.95" height="99.6" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="room240" x="507.14" y="320.75" width="113.95" height="74.79" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
   </g>
-  <g id="_段-2" data-name="階段">
+  <g id="_階段-2" data-name="階段">
     <g>
       <polygon points="160.96 155.17 166.16 168.43 179.12 168.43 179.12 155.17 160.96 155.17" fill="#5c5a5a"/>
       <polyline points="148.01 168.43 179.12 168.43 179.12 155.17 147.57 155.17" fill="none" stroke="#283331" stroke-miterlimit="10"/>
@@ -170,43 +163,54 @@
       <line x1="568.12" y1="40.71" x2="585.6" y2="40.71" fill="none" stroke="#283331" stroke-miterlimit="10" stroke-width=".25"/>
     </g>
   </g>
-  <g id="_イレマーク" data-name="トイレマーク">
-    <g id="_女" data-name="男女">
-      <path d="M397.46,78.47c1.77,0,3.21-1.44,3.21-3.21s-1.44-3.21-3.21-3.21-3.21,1.44-3.21,3.21,1.44,3.21,3.21,3.21Z" fill="#fff"/>
-      <path d="M400.46,80.26h-6.02c-.68,0-1.31,.34-1.69,.91-.37,.57-.44,1.28-.17,1.91l4.4,10.36c.08,.19,.26,.31,.47,.31s.39-.12,.47-.31l4.4-10.36c.27-.62,.2-1.34-.17-1.91-.37-.57-1.01-.91-1.69-.91Z" fill="#fff"/>
+  <g id="_トイレマーク" data-name="トイレマーク">
+    <g id="_男女" data-name="男女">
+      <path d="m397.46,78.47c1.77,0,3.21-1.44,3.21-3.21s-1.44-3.21-3.21-3.21-3.21,1.44-3.21,3.21,1.44,3.21,3.21,3.21Z" fill="#fff"/>
+      <path d="m400.46,80.26h-6.02c-.68,0-1.31.34-1.69.91-.37.57-.44,1.28-.17,1.91l4.4,10.36c.08.19.26.31.47.31s.39-.12.47-.31l4.4-10.36c.27-.62.2-1.34-.17-1.91-.37-.57-1.01-.91-1.69-.91Z" fill="#fff"/>
     </g>
-    <g id="_女-2" data-name="男女">
-      <path d="M602.69,426.11c1.77,0,3.21-1.44,3.21-3.21s-1.44-3.21-3.21-3.21-3.21,1.44-3.21,3.21,1.44,3.21,3.21,3.21Z" fill="#fff"/>
-      <path d="M607.56,438.57l-4.4-10.36c-.08-.19-.26-.31-.47-.31s-.39,.12-.47,.31l-4.4,10.36c-.27,.62-.2,1.34,.17,1.91,.37,.57,1.01,.91,1.69,.91h6.02c.68,0,1.31-.34,1.69-.91,.37-.57,.44-1.28,.17-1.91Z" fill="#fff"/>
+    <g id="_男女-2" data-name="男女">
+      <path d="m602.69,426.11c1.77,0,3.21-1.44,3.21-3.21s-1.44-3.21-3.21-3.21-3.21,1.44-3.21,3.21,1.44,3.21,3.21,3.21Z" fill="#fff"/>
+      <path d="m607.56,438.57l-4.4-10.36c-.08-.19-.26-.31-.47-.31s-.39.12-.47.31l-4.4,10.36c-.27.62-.2,1.34.17,1.91.37.57,1.01.91,1.69.91h6.02c.68,0,1.31-.34,1.69-.91.37-.57.44-1.28.17-1.91Z" fill="#fff"/>
     </g>
-    <g id="_女-3" data-name="男女">
-      <path d="M378.76,78.58c1.77,0,3.21-1.44,3.21-3.21s-1.44-3.21-3.21-3.21-3.21,1.44-3.21,3.21,1.44,3.21,3.21,3.21Z" fill="#fff"/>
-      <path d="M383.63,91.03l-4.4-10.36c-.08-.19-.26-.31-.47-.31s-.39,.12-.47,.31l-4.4,10.36c-.27,.62-.2,1.34,.17,1.91,.37,.57,1.01,.91,1.69,.91h6.02c.68,0,1.31-.34,1.69-.91,.37-.57,.44-1.28,.17-1.91Z" fill="#fff"/>
+    <g id="_男女-3" data-name="男女">
+      <path d="m378.76,78.58c1.77,0,3.21-1.44,3.21-3.21s-1.44-3.21-3.21-3.21-3.21,1.44-3.21,3.21,1.44,3.21,3.21,3.21Z" fill="#fff"/>
+      <path d="m383.63,91.03l-4.4-10.36c-.08-.19-.26-.31-.47-.31s-.39.12-.47.31l-4.4,10.36c-.27.62-.2,1.34.17,1.91.37.57,1.01.91,1.69.91h6.02c.68,0,1.31-.34,1.69-.91.37-.57.44-1.28.17-1.91Z" fill="#fff"/>
     </g>
   </g>
   <g id="MLOC-available">
-    <rect id="4-6_room201_f" x="57.29" y="164.02" width="58.44" height="82.1" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="4-6_room202_f" x="57.29" y="66.82" width="58.44" height="79.04" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="4-6_room203_f" x="115.74" y="51.27" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="4-6_room204_f" x="179.41" y="51.27" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="4-6_room205_f" x="243.08" y="66.82" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="_4-7-ri_room205" data-name="4-7-ri_room205" x="243.08" y="66.82" width="63.67" height="76.53" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="_4-7-ri_room204" data-name="4-7-ri_room204" x="179.41" y="51.27" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="_4-7-ri_room203" data-name="4-7-ri_room203" x="115.74" y="51.27" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="_4-7-ri_room201" data-name="4-7-ri_room201" x="57.29" y="164.02" width="58.44" height="82.1" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="_4-7-ri_room202" data-name="4-7-ri_room202" x="57.29" y="66.82" width="58.44" height="79.04" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="_4-7-ri_room209" data-name="4-7-ri_room209" x="179.41" y="177.67" width="63.67" height="68.45" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="_4-7-ri_room208" data-name="4-7-ri_room208" x="243.08" y="164.02" width="81.9" height="74.19" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="_4-7-ri_room206" data-name="4-7-ri_room206" x="306.75" y="66.82" width="63.67" height="76.53" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="_4-7-ri_room210" data-name="4-7-ri_room210" x="406.49" y="38" width="144.16" height="89.8" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="_4-7-ri_room220" data-name="4-7-ri_room220" x="507.14" y="147.33" width="113.95" height="74.79" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="_4-7-ri_room230" data-name="4-7-ri_room230" x="507.14" y="221.63" width="113.95" height="99.6" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="_4-7-ri_room240" data-name="4-7-ri_room240" x="507.14" y="320.75" width="113.95" height="74.79" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
   </g>
   <g id="MNOINT-word">
-    <text transform="translate(551.67 124.8)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">EV</tspan></text>
-    <text transform="translate(57.29 78.47)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">202</tspan></text>
-    <text transform="translate(41.45 378.82)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="20"><tspan x="0" y="0">A</tspan><tspan x="13.12" y="0" letter-spacing=".25em">V</tspan><tspan x="30" y="0">棟</tspan></text>
-    <text transform="translate(418.99 430.39)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="20"><tspan x="0" y="0">ロッカールーム</tspan></text>
-    <text transform="translate(118.25 62.28)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">203</tspan></text>
-    <text transform="translate(181.6 62.43)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">204</tspan></text>
-    <text transform="translate(245.83 78.47)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">205</tspan></text>
-    <text transform="translate(307.75 78.62)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">206</tspan></text>
-    <text transform="translate(327.13 175.14)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">207</tspan></text>
-    <text transform="translate(244.08 175.28)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">208</tspan></text>
-    <text transform="translate(181.19 188.75)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">209</tspan></text>
-    <text transform="translate(60.01 175.14)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">201</tspan></text>
-    <text transform="translate(407.47 49.07)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">210</tspan></text>
-    <text transform="translate(508.14 158.72)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">220</tspan></text>
-    <text transform="translate(508.68 233.04)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">230</tspan></text>
-    <text transform="translate(509.27 332.71)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, Kozuka Gothic Pr6N" font-size="12"><tspan x="0" y="0">240</tspan></text>
+    <text transform="translate(61.34 203.43)" fill="#231815" font-family="HiraginoSans-W6-83pv-RKSJ-H, &apos;Hiragino Sans&apos;" font-size="10"><tspan x="0" y="0">数理科学科</tspan><tspan x="17.88" y="17.5">41</tspan></text>
+    <text transform="translate(132.63 89.36)" fill="#231815" font-family="HiraginoSans-W6-83pv-RKSJ-H, &apos;Hiragino Sans&apos;" font-size="10"><tspan x="0" y="0">化学科</tspan><tspan x="7.88" y="17.5">43</tspan></text>
+    <text transform="translate(66.42 103.68)" fill="#231815" font-family="HiraginoSans-W6-83pv-RKSJ-H, &apos;Hiragino Sans&apos;" font-size="10"><tspan x="0" y="0">物理学科</tspan><tspan x="12.88" y="17.5">42</tspan></text>
+    <text transform="translate(186.24 89.53)" fill="#231815" font-family="HiraginoSans-W6-83pv-RKSJ-H, &apos;Hiragino Sans&apos;" font-size="10"><tspan x="0" y="0">生命科学科</tspan><tspan x="17.88" y="17.5">44</tspan></text>
+    <text transform="translate(551.67 124.8)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="12"><tspan x="0" y="0">EV</tspan></text>
+    <text transform="translate(57.29 78.47)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="12"><tspan x="0" y="0">202</tspan></text>
+    <text transform="translate(41.45 378.82)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="20"><tspan x="0" y="0">A</tspan><tspan x="13.12" y="0" letter-spacing=".25em">V</tspan><tspan x="30" y="0">棟</tspan></text>
+    <text transform="translate(418.99 430.39)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="20"><tspan x="0" y="0">ロッカールーム</tspan></text>
+    <text transform="translate(118.25 62.28)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="12"><tspan x="0" y="0">203</tspan></text>
+    <text transform="translate(181.6 62.43)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="12"><tspan x="0" y="0">204</tspan></text>
+    <text transform="translate(245.83 78.47)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="12"><tspan x="0" y="0">205</tspan></text>
+    <text transform="translate(307.75 78.62)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="12"><tspan x="0" y="0">206</tspan></text>
+    <text transform="translate(327.13 175.14)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="12"><tspan x="0" y="0">207</tspan></text>
+    <text transform="translate(244.08 175.28)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="12"><tspan x="0" y="0">208</tspan></text>
+    <text transform="translate(181.19 188.75)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="12"><tspan x="0" y="0">209</tspan></text>
+    <text transform="translate(60.01 175.14)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="12"><tspan x="0" y="0">201</tspan></text>
+    <text transform="translate(407.47 49.07)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="12"><tspan x="0" y="0">210</tspan></text>
+    <text transform="translate(508.14 158.72)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="12"><tspan x="0" y="0">220</tspan></text>
+    <text transform="translate(508.68 233.04)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="12"><tspan x="0" y="0">230</tspan></text>
+    <text transform="translate(509.27 332.71)" fill="#231815" font-family="KozGoPr6N-Regular-83pv-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="12"><tspan x="0" y="0">240</tspan></text>
   </g>
 </svg>
