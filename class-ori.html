@@ -420,7 +420,10 @@
                     </p>
                     <section id="map-section" class="inner over">
                         <div class="map-container">
-					    	<div id="mapplic_class-ori"></div>
+					    	<div id="mapplic_class-ori-4-6"></div>
+					    </div>
+                        <div class="map-container">
+					    	<div id="mapplic_class-ori-4-7"></div>
 					    </div>
                     </section>-->
 
@@ -464,8 +467,31 @@
     <script type="text/javascript">
         $(document).ready(function () {
             var css = '.mapplic-filtered svg [id^=landmark] > * {opacity: 1 !important; }';
-            var map = $('#mapplic_class-ori').mapplic({
-                source: 'class-ori.json',
+            var map = $('#mapplic_class-ori-4-6').mapplic({
+                source: 'class-ori-4-6.json',
+                customcss: css,
+                sidebar: true,
+                sidebartoggle: true,
+                alphabetic: true,
+                height: 'auto',
+                developer: true,
+                searchdescription: true,
+                searcheverywhere: true,
+                animations: true,
+                minimap: true,
+                marker: 'hidden',
+                fillcolor: false,
+                fullscreen: false,
+                thumbholder: true,
+                maxscale: 3
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var css = '.mapplic-filtered svg [id^=landmark] > * {opacity: 1 !important; }';
+            var map = $('#mapplic_class-ori-4-7').mapplic({
+                source: 'class-ori-4-7.json',
                 customcss: css,
                 sidebar: false,
                 sidebartoggle: true,

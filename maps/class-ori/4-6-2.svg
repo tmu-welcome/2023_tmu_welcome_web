@@ -178,18 +178,18 @@
     </g>
   </g>
   <g id="MLOC-available">
-    <rect id="_4-6_room205" data-name="4-6_room205" x="243.08" y="66.82" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="_4-6_room204" data-name="4-6_room204" x="179.41" y="51.27" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="_4-6_room203" data-name="4-6_room203" x="115.74" y="51.27" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="_4-6_room201" data-name="4-6_room201" x="57.29" y="164.02" width="58.44" height="82.1" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="_4-6_room202" data-name="4-6_room202" x="57.29" y="66.82" width="58.44" height="79.04" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="_4-6_room209" data-name="4-6_room209" x="179.41" y="177.67" width="63.67" height="68.45" fill="#a8d7ef" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="_4-6_room208" data-name="4-6_room208" x="243.08" y="164.02" width="81.9" height="74.19" fill="#a8d7ef" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="_4-6_room206" data-name="4-6_room206" x="306.75" y="66.82" width="63.67" height="76.53" fill="#a8d7ef" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="_4-6_room210" data-name="4-6_room210" x="406.49" y="38" width="144.16" height="89.8" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="_4-6_room220" data-name="4-6_room220" x="507.14" y="147.33" width="113.95" height="74.79" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="_4-6_room230" data-name="4-6_room230" x="507.14" y="221.63" width="113.95" height="99.6" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
-    <rect id="_4-6_room240" data-name="4-6_room240" x="507.14" y="320.75" width="113.95" height="74.79" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room205" data-name="4-6_room205" x="243.08" y="66.82" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room204" data-name="4-6_room204" x="179.41" y="51.27" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room203" data-name="4-6_room203" x="115.74" y="51.27" width="63.67" height="76.53" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room201" data-name="4-6_room201" x="57.29" y="164.02" width="58.44" height="82.1" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room202" data-name="4-6_room202" x="57.29" y="66.82" width="58.44" height="79.04" fill="#aaddf7" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room209" data-name="4-6_room209" x="179.41" y="177.67" width="63.67" height="68.45" fill="#a8d7ef" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room208" data-name="4-6_room208" x="243.08" y="164.02" width="81.9" height="74.19" fill="#a8d7ef" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room206" data-name="4-6_room206" x="306.75" y="66.82" width="63.67" height="76.53" fill="#a8d7ef" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room210" data-name="4-6_room210" x="406.49" y="38" width="144.16" height="89.8" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room220" data-name="4-6_room220" x="507.14" y="147.33" width="113.95" height="74.79" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room230" data-name="4-6_room230" x="507.14" y="221.63" width="113.95" height="99.6" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="4-6_room240" data-name="4-6_room240" x="507.14" y="320.75" width="113.95" height="74.79" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
   </g>
   <g id="MNOINT-word">
     <g>
