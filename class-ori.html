@@ -179,7 +179,7 @@
                         <li><a href="#bun">4/6 人文社会・法・経済経営</a></li>
                         <li><a href="#ri">4/7 理・都市環境・システムデザイン・健康福祉学部</a></li>
                         <li><a href="#participate">参加方法（時間どおりに行くだけ）</a></li>
-                        <!--<li><a href="#map">地図</a></li>-->
+                        <li><a href="#map">地図</a></li>
                     </ul>
 
                     <h2 id="outline">概要</h2>
@@ -414,18 +414,20 @@
                     </p>
 
 
-                    <!--<h2 id="map">Map</h2>
+                    <h2 id="map">Map</h2>
                     <p>
-                        青くなっている教室をタップすると、対象のクラスが表示されます。
+                        学部名や学科名で検索することができます。
                     </p>
                     <section id="map-section" class="inner over">
+                        <h3>4月6日開催分</h3>
                         <div class="map-container">
 					    	<div id="mapplic_class-ori-4-6"></div>
 					    </div>
+                        <h3>4月7日開催分</h3>
                         <div class="map-container">
 					    	<div id="mapplic_class-ori-4-7"></div>
 					    </div>
-                    </section>-->
+                    </section>
 
 
                 </article> <!-- end column large-full entry-->
@@ -493,11 +495,11 @@
             var map = $('#mapplic_class-ori-4-7').mapplic({
                 source: 'class-ori-4-7.json',
                 customcss: css,
-                sidebar: false,
+                sidebar: true,
                 sidebartoggle: true,
                 alphabetic: true,
                 height: 'auto',
-                developer: true,
+                developer: false,
                 searchdescription: true,
                 searcheverywhere: true,
                 animations: true,
