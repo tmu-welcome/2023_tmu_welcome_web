@@ -4,7 +4,7 @@
     <polyline id="base" points=".5 0 660.5 0 660.5 506.06 .5 506.06" fill="#dcdddd"/>
   </g>
   <g id="MLOC-buildings">
-    <rect id="buliding1" x=".5" y="14.5" width="189.98" height="307.79" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
+    <rect id="hall-building1" x=".5" y="14.5" width="189.98" height="307.79" fill="#929292" stroke="#283331" stroke-miterlimit="10"/>
     <rect id="soranomado" x="369.1" y="373.9" width="291.62" height="130.62" fill="#abd8f1" stroke="#283331" stroke-miterlimit="10" stroke-width=".97"/>
     <polyline id="s-hall" points="475.29 45.75 660.5 45.75 660.5 164.11 475.29 164.11 475.29 45.75" fill="#aedef8" stroke="#283331" stroke-miterlimit="10" stroke-width=".68"/>
     <polyline id="b-hall" points="475.49 168.8 660.71 168.8 660.71 287.16 475.49 287.16 475.49 168.8" fill="#aedef8" stroke="#283331" stroke-miterlimit="10" stroke-width=".68"/>
