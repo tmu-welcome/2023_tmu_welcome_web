@@ -48,7 +48,7 @@ $(document).ready(function () {
 		self.switchLevel('floor-7-1');
 	});
 
-	$(document).on(clickEventType, '#hall', function (e) {
+	$(document).on(clickEventType, '#Hall', function (e) {
 		e.preventDefault();
 		self.switchLevel('hall');
 	});
