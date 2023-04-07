@@ -162,7 +162,7 @@
 					"id": "room209",
 					"title": "209",
 					"about": "1号館2階209",
-					"description": "Mapple",
+					"description": "MaPPle",
 					"x": "0.3198",
 					"y": "0.4374"
 				},
@@ -596,7 +596,7 @@
 					"id": "s-hall",
 					"title": "講堂小ホール",
 					"about": "講堂小ホール",
-					"description": "11:00~ 古典ギター部",
+					"description": "14:00~ 古典ギター部",
 					"x": "0.8446",
 					"y": "0.2030"
 				},
@@ -612,7 +612,7 @@
 					"id": "soranomado",
 					"title": "空の目門",
 					"about": "空の目門",
-					"description": "11:00~ 応援団<br>12:00~ WILD BOARS<br>13:00~ WILD BOARS<br>14:30~ 応援団",
+					"description": "11:00~ 応援団<br>12:30~ WILD BOARS<br>13:30~ WILD BOARS<br>15:00~ 応援団",
 					"x": "0.7710",
 					"y": "0.8760"
 				},
