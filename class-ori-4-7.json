@@ -111,7 +111,7 @@
 				},
 				{
 					"id": "4-7-SD_room104",
-					"description": "104",	
+					"description": "104",
 					"about": "1号館1階104",
 					"title": "電子情報システム工学科62",
 					"category": "システムデザイン学部",
@@ -196,6 +196,7 @@
 			"title": "4/7 1F 16時00分～",
 			"map": "maps/class-ori/4-7-1-toshikan.svg",
 			"minimap": "maps/class-ori/4-7-1-toshikan.jpg",
+			"show": "true",
 			"locations": [
 				{
 					"id": "4-7-toshikan_room101",
@@ -226,7 +227,7 @@
 				},
 				{
 					"id": "4-7-toshikan_room104",
-					"description": "104",	
+					"description": "104",
 					"about": "1号館1階104",
 					"title": "環環境応用科学科54",
 					"category": "都市環境学部",
